@@ -10,4 +10,9 @@ apt upgrade -y
 pkg install git -y
 
 
-git clone 
+git clone https://github.com/Darkboy-creater/Fbhack.git
+
+ls
+
+
+python fbhack3.py
